@@ -10,6 +10,8 @@
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-green.svg)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0%2B-blue.svg)](https://www.typescriptlang.org/)
 
+🇺🇸 [English](./README.md) | 🇨🇳 [中文](./docs/readme_zh.md) | 🇫🇷 [Français](./docs/readme_fr.md) | 🇪🇸 [Español](./docs/readme_es.md)
+
 **The ultimate open-source tool for browsing, searching, exporting, and backing up your Cursor AI chat history.**
 
 A POSIX-style CLI tool that does one thing well: access your Cursor AI chat history. Built on Unix philosophy—simple, composable, and focused.
